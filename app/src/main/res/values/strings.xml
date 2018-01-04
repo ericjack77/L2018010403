@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L2018010403</string>
+    <string-array name="Cities">
+        <item>綠島</item>
+        <item>澎湖</item>
+        <item>蘭嶼</item>
+        <item>小琉球</item>
+    </string-array>
+</resources>
